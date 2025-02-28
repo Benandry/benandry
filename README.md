@@ -1,7 +1,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malek.ssmida@gmail.com)](mailto:nandry556@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/votreprofil)](https://www.facebook.com/nandry.multiplix)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
 ## About me 
-- 👋 Hi, I’m @eloi-charly
+- 👋 Hi, I’m Herinandrianina Eloi Charly
 -  📚 Passionate about programming and always learning..
 -  🌱  Exploring web development and database tuning.
 -  🎯  Driven to build efficient, scalable apps.
