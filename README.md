@@ -13,8 +13,6 @@
 
 ![Developer](https://img.shields.io/badge/Full--Stack%20Developer-000000?style=flat-square&logo=code&logoColor=white)
 
-
-</div>
 ---
 
 ## About me 
