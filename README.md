@@ -6,11 +6,11 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
 ---
-
+<div align="center">
 ## 👨‍💻 Full Stack Developer
 
 ![Developer](https://img.shields.io/badge/Full--Stack%20Developer-000000?style=flat-square&logo=code&logoColor=white)
-
+</div>
 ---
 
 ## About me 
