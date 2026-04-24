@@ -5,13 +5,14 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/Herinandrianina)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
----
 <div align="center">
+---
 ## 👨‍💻 Full Stack Developer
 
 ![Developer](https://img.shields.io/badge/Full--Stack%20Developer-000000?style=flat-square&logo=code&logoColor=white)
-</div>
+
 ---
+</div>
 
 ## About me 
 - 👋 Hi, I’m Herinandrianina Eloi Charly
